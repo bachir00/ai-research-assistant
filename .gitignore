@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+venv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Data and outputs
+data/
+output/
+logs/
+docs/
+
+#file
+prompt.md
+
+# Database files
+*.db
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+.env.*
+.specstory
+
+# Optional: ignore local config
+config/*.local

@@ -1,0 +1,43 @@
+{
+  "query": {
+    "topic": "impact de l'intelligence artificielle sur le marché de l'emploi",
+    "keywords": [
+      "intelligence artificielle",
+      "robotisation",
+      "automatisation",
+      "emploi numérique",
+      "marché du travail",
+      "perte d'emploi",
+      "réorientation professionnelle"
+    ],
+    "max_results": 2,
+    "search_depth": "basic",
+    "date_range": null
+  },
+  "results": [
+    {
+      "title": "L'impact de l'intelligence artificielle sur l'emploi et les ...",
+      "url": "https://itsocial.fr/enjeux-it/enjeux-tech/intelligences-artificielles/limpact-de-lintelligence-artificielle-sur-lemploi-et-les-competences-la-revolution-est-en-marche/",
+      "snippet": "Les emplois nécessitant des compétences spécialisées en IA apportent un avantage salarial significatif dans plusieurs pays, allant jusqu'à 25 %",
+      "published_date": null,
+      "author": null,
+      "source": "",
+      "score": 0.556093715,
+      "tags": []
+    },
+    {
+      "title": "🌍 Impact de l'IA et de la Robotique sur le Marché ...",
+      "url": "https://fr.linkedin.com/pulse/impact-de-lia-et-la-robotique-sur-le-march%C3%A9-lemploi-emmanuel-moyrand-0d6qe",
+      "snippet": "85 millions d'emplois pourraient disparaître d'ici 2025 à cause de l'automatisation, selon le Forum Économique Mondial (FEM). Cependant, 97",
+      "published_date": null,
+      "author": null,
+      "source": "",
+      "score": 0.53741092,
+      "tags": []
+    }
+  ],
+  "total_found": 2,
+  "search_time": 3.682458,
+  "search_engine": "tavily",
+  "timestamp": "2025-11-16T14:11:36.686768"
+}

@@ -1,0 +1,38 @@
+{
+  "documents": [
+    {
+      "title": "L'impact de l'intelligence artificielle sur l'emploi et les compétences, la révolution est en marche - IT SOCIAL",
+      "url": "https://itsocial.fr/enjeux-it/enjeux-tech/intelligences-artificielles/limpact-de-lintelligence-artificielle-sur-lemploi-et-les-competences-la-revolution-est-en-marche/",
+      "content": "Tech Intelligence artificielle L’impact de l’intelligence artificielle sur l’emploi et les compétences, la révolution est... ",
+      "title": "🌍 Impact de l'IA et de la Robotique sur le Marché de l'Emploi 🤖📈",
+      "url": "https://fr.linkedin.com/pulse/impact-de-lia-et-la-robotique-sur-le-march%C3%A9-lemploi-emmanuel-moyrand-0d6qe",
+      "content": "Une révolution technologique qui redéfinit le travail humain L’intelligence artificielle (IA) et la robotique transforment rapidement notre monde.... ",
+      "doc_type": "article",
+      "author": null,
+      "published_date": null,
+      "source": null,
+      "word_count": 1036,
+      "language": "fr"
+    }
+  ],
+  "total_urls": 2,
+  "successful_extractions": 2,
+  "failed_extractions": 0,
+  "failed_urls": [
+    "https://itsocial.fr/enjeux-it/enjeux-tech/intelligences-artificielles/limpact-de-lintelligence-artificielle-sur-lemploi-et-les-competences-la-revolution-est-en-marche/",
+    "https://fr.linkedin.com/pulse/impact-de-lia-et-la-robotique-sur-le-march%C3%A9-lemploi-emmanuel-moyrand-0d6qe"
+  ],
+  "execution_time": 3.486504,
+  "extraction_stats": {
+    "total_words": 2360,
+    "average_words_per_doc": 1180,
+    "doc_types": {
+      "article": 2
+    },
+    "languages": {
+      "fr": 2
+    },
+    "has_authors": 1,
+    "has_dates": 1
+  }
+}
