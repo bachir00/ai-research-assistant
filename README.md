@@ -99,7 +99,7 @@ langGraphe-ai-research-assistant-main/
                            │
             ┌──────────────┴──────────────┐
             │                             │
-            ▼                             ▼
+            ▼                             ▼                              
 ┌─────────────────────┐       ┌─────────────────────┐
 │   RECHERCHE CACHE   │       │  NOUVELLE RECHERCHE │
 │                     │       │                     │
@@ -125,7 +125,11 @@ langGraphe-ai-research-assistant-main/
 │  └─────────────────────┘         └──────────────────────┘       │
 └─────────────────────────────────────────────────────────────────┘
                            │
+                           │
                            ▼
+                   RAPPORT STRUCTURÉ
+              (Markdown, HTML, Text, JSON)
+
 ┌──────────────────────────────────────────────────────────────────┐
 │                   PIPELINE DE RECHERCHE                          │
 │                                                                  │
@@ -148,10 +152,7 @@ langGraphe-ai-research-assistant-main/
 │                                    │ • Rapport final  │          │
 │                                    └──────────────────┘          │
 └──────────────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-                   RAPPORT STRUCTURÉ
-              (Markdown, HTML, Text, JSON)
+
 ```
 
 ---
