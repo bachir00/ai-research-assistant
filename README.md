@@ -373,7 +373,7 @@ Combine les deux mémoires pour :
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/votre-repo/ai-research-assistant.git
+git clone https://github.com/bachir00/ai-research-assistant.git
 cd ai-research-assistant
 
 # 2. Créer un environnement virtuel
